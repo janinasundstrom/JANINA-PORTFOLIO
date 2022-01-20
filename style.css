@@ -1,0 +1,56 @@
+* {
+  background-color: rgb(198, 210, 212); /*En backgrundsfärg för alla mina sidor*/
+font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+  font-size: 40px;
+}
+
+a {
+  color: #000000;
+  text-decoration:underline;
+}
+
+div {
+  height: 200px;
+  width: 50%;
+  background-color: rgb(252, 252, 252);
+}
+
+
+.TEXT {
+  background-color:rgba(160, 125, 125, 0.856)
+  (243, 243, 245);
+  font: size 18pxpx;
+  padding: 20px;
+  margin: 270px;
+  border: 20px center rgb(141, 43, 43);
+}
+
+h7{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+.para1 {
+
+  text-align: center;
+  text-align: center;
+ 
+}
+
+.wrapper{
+  margin: 150px;
+  float: center; 
+  }
+
+
+ 
+  .wrapper1{
+    margin: 300px;
+    float: center; 
+    }
