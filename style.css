@@ -1,7 +1,14 @@
 * {
-  background-color: rgb(198, 210, 212); /*En backgrundsfärg för alla mina sidor*/
+  background-color: rgb(226, 216, 224); /*En backgrundsfärg för alla mina sidor*/
 font-family:Arial, Helvetica, sans-serif
 }
+
+
+* {
+
+  text-align: center;
+  
+  }
 
 h1 {
   font-size: 40px;
@@ -20,7 +27,7 @@ div {
 
 
 .TEXT {
-  background-color:rgba(160, 125, 125, 0.856)
+  background-color:rgba(255, 255, 255, 0.856)
   (243, 243, 245);
   font: size 18pxpx;
   padding: 20px;
